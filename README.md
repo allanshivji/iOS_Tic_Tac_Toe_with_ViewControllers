@@ -8,3 +8,4 @@ Once the winner is declared or the game is draw then we go back to the first vie
 
 ## Demo
 
+![ezgif com-crop](https://user-images.githubusercontent.com/13806781/54468619-c93c8880-4764-11e9-9a70-b1cdcc602144.gif)
